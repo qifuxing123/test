@@ -1,0 +1,22 @@
+# 注释
+
+*.log
+*.pyc
+*.swp
+__init__.py
+__pycache__
+migrations
+tests.py
+
+p1227/ecrdemo/admin.py
+p1227/ecrdemo/apps.py
+p1227/ecrdemo/urls.py
+p1227/ecrdemo/views.py
+
+p1227/db.sqlite3
+p1227/manage.py
+p1227/favicon.ico
+p1227/static/
+
+p1227/p1227/asgi.py
+p1227/p1227/wsgi.py
